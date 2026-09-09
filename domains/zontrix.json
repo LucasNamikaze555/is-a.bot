@@ -2,6 +2,7 @@
   "owner": {
     "username": "LucasNamikaze555"
   },
+  "description": "Personal offline PWA music player",
   "record": {
     "CNAME": "lucasnamikaze555.github.io"
   }
